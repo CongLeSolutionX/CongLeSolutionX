@@ -43,21 +43,23 @@
 *************
 
 <h3 align="left">Support:</h3>
-
-<p><a href="https://www.buymeacoffee.com/CongLeSolutionX"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CongLeSolutionX" /></a></p>
+<br>
+<a href="https://www.buymeacoffee.com/CongLeSolutionX"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CongLeSolutionX" /></a>
+</br>
+<br>
+<br>
 
 *************
+
 <br>
-<br>
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=conglesolutionx&show_icons=true&locale=en&layout=compact" alt="conglesolutionx" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=conglesolutionx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="conglesolutionx">
+
+</br>
 
 *************
-<br>
-<br>
-<br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=conglesolutionx&show_icons=true&locale=en" alt="conglesolutionx" /></p>
-<!-- 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=conglesolutionx&" alt="conglesolutionx" /></p> -->
+<br>
+<a href="">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=conglesolutionx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="conglesolutionx"></a>
+</br>
