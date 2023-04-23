@@ -44,6 +44,9 @@
 
 <h3 align="left">Support:</h3>
 <br>
+
+<p>If you enjoy using my open-source projects on GitHub and find them helpful, please consider donating to help support their maintenance and development. Every donation, no matter how small, is greatly appreciated and will motivate me to continue building and improving these projects.</p>
+
 <a href="https://www.buymeacoffee.com/CongLeSolutionX"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CongLeSolutionX" /></a>
 </br>
 <br>
@@ -51,15 +54,13 @@
 
 *************
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=conglesolutionx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="conglesolutionx">
-
-</br>
-
-*************
-
-<br>
-<a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=conglesolutionx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="conglesolutionx"></a>
-</br>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=conglesolutionx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="conglesolutionx">
+  </div>
+  <div>
+    <a href="">
+      <img src="https://github-readme-stats.vercel.app/api?username=conglesolutionx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="conglesolutionx">
+    </a>
+  </div>
+</div>
