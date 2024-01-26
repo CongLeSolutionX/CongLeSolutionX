@@ -6,8 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=conglesolutionx" alt="conglesolutionx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cong_le" target="blank"><img src="https://img.shields.io/twitter/follow/cong_le?logo=twitter&style=for-the-badge" alt="cong_le" /></a> </p> -->
-
+<!-- 
 - 🔭 I’m currently working on iOS mobile app [Ally: Banking & Investing](https://apps.apple.com/us/app/ally-banking-investing/id514374715)
+-->
 
 - 🌱 I’m currently learning **Cryptos**, **Stock Trading**, **Python, Pine Script**
 
