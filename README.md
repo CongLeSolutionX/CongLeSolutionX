@@ -10,13 +10,15 @@
 - 🔭 I’m currently working on iOS mobile app [Ally: Banking & Investing](https://apps.apple.com/us/app/ally-banking-investing/id514374715)
 -->
 
-- 🌱 I’m currently learning **Cryptos**, **Stock Trading**, **Python, Pine Script**
+- 🔭 I’m currently working on iOS mobile app development.
+
+- 🌱 I’m currently learning **Generative AI** **Cryptos**, **Stock Trading**, **Python, Pine Script**
 
 - 👯 I’m looking to collaborate on [OpenAI API](https://platform.openai.com/docs/introduction), [ChatGPT](https://openai.com/blog/chatgpt), [GPT-4](https://openai.com/research/gpt-4), [ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), and [DALL-E-2](https://openai.com/product/dall-e-2).
 
 - 👨‍💻 All of my projects are available at [CongLeSolutionX.tech](CongLeSolutionX.tech)
 
-- 📝 I regularly write articles on [CongLeSolutionX.tech](CongLeSolutionX.tech)
+- 📝 I regularly write articles on [Medium.com/@CongLeSolutionX](medium.com/@CongLeSolutionX) and [CongLeSolutionX.tech](CongLeSolutionX.tech)
 
 - 💬 Ask me about **Swift, Objective C, iOS mobile development**
 
