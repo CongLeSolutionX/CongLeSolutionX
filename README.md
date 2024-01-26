@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [CongLeSolutionX.tech](CongLeSolutionX.tech)
 
-- 📝 I regularly write articles on [Medium.com/@CongLeSolutionX](medium.com/@CongLeSolutionX) and [CongLeSolutionX.tech](CongLeSolutionX.tech)
+- 📝 I regularly write articles on [Medium.com/@CongLeSolutionX](www.medium.com/@CongLeSolutionX) and [CongLeSolutionX.tech](CongLeSolutionX.tech)
 
 - 💬 Ask me about **Swift, Objective C, iOS mobile development**
 
