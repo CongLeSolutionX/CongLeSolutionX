@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [Medium.com/@CongLeSolutionX](www.medium.com/@CongLeSolutionX) and [CongLeSolutionX.tech](CongLeSolutionX.tech)
 
-- 💬 Ask me about **Swift, Objective C, iOS mobile development**
+- 💬 Ask me about **Swift, Objective C, iOS mobile development, and AI tools to generate various media types** (I am reviewing my content categories. Stay tuned!)
 
 - 📫 How to reach me **conglejobs@gmail.com**
 
