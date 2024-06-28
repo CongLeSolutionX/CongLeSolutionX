@@ -16,15 +16,15 @@
 
 - 👯 I’m looking to collaborate on [OpenAI API](https://platform.openai.com/docs/introduction), [ChatGPT](https://openai.com/blog/chatgpt), [GPT-4](https://openai.com/research/gpt-4), [ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), and [DALL-E-2](https://openai.com/product/dall-e-2), etc. (I'm reviewing my recent projects and updating these frameworks and APIs. Stay tuned!).
 
-- 👨‍💻 All of my projects are available at [CongLeSolutionX.tech](CongLeSolutionX.tech) (I'm working on uploading more recent projects to that page. Stay tuned!)
+- 👨‍💻 All of my projects are available at [CongLeSolutionX.tech](https://CongLeSolutionX.tech) (I'm working on uploading more recent projects to that page. Stay tuned!)
 
-- 📝 I regularly write articles on [Medium.com/@CongLeSolutionX](www.medium.com/@CongLeSolutionX) and [CongLeSolutionX.tech](CongLeSolutionX.tech)
+- 📝 I regularly write articles on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX) and [CongLeSolutionX.tech](https://CongLeSolutionX.tech)
 
 - 💬 Ask me about **Swift, Objective C, iOS mobile development, and AI tools to generate various media types** (I am reviewing my content categories. Stay tuned!)
 
 - 📫 How to reach me **conglejobs@gmail.com**
 
-- 📄 Know about my experiences [CongLeSolutionX.tech](CongLeSolutionX.tech) (Under the process of updating my content and experiences on the website)
+- 📄 Know about my experiences [CongLeSolutionX.tech](https://CongLeSolutionX.tech) (Under the process of updating my content and experiences on the website)
 
 *************
 
