@@ -4,7 +4,6 @@
 - 🔭 My current focus is a natural-language processing iOS app as the capstone project for my Master's program, which concludes in June 2025.
 - 📫 How to reach me **conglejobs@gmail.com**
 - 📝 I'm actively writing articles on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX) on iOS development and integrations with AI tools.
-- 
 <!-- 
 - 🔭 I’m currently working on iOS mobile app development.
 - 🌱 I’m currently learning **Generative AI**, **Cryptos**, **Stock Trading**, **Python**, **Pine Script**
