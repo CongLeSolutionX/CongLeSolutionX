@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cong Le</h1>
 <h3 align="center">Chance led me to iOS development, <br> but the COVID-19 pandemic cemented my choice of a software engineering career, <br> which I stay current with through my writing on Medium</h3>
 
+- 🔭 My current focus is a natural-language processing iOS app as the capstone project for my Master's program, which concludes in June 2025.
+- 📫 How to reach me **conglejobs@gmail.com**
+- 📝 I'm actively writing articles on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX) on iOS development and integrations with AI tools.
+- 
+<!-- 
 - 🔭 I’m currently working on iOS mobile app development.
 - 🌱 I’m currently learning **Generative AI**, **Cryptos**, **Stock Trading**, **Python**, **Pine Script**
 - 👯 I’m looking to collaborate on [OpenAI API](https://platform.openai.com/docs/introduction), [ChatGPT](https://openai.com/blog/chatgpt), [GPT-4](https://openai.com/research/gpt-4), [ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), and [DALL-E-2](https://openai.com/product/dall-e-2), etc. (I'm reviewing my recent projects and updating these frameworks and APIs. Stay tuned!).
@@ -9,6 +14,7 @@
 - 💬 Ask me about **Swift, Objective C, iOS mobile development, and AI tools to generate various media types** (I am reviewing my content categories. Stay tuned!)
 - 📫 How to reach me **conglejobs@gmail.com**
 - 📄 Know about my experiences [CongLeSolutionX.tech](https://CongLeSolutionX.tech) (Under the process of updating my content and experiences on the website)
+-->
 
 *************
 
