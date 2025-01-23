@@ -2,8 +2,8 @@
 <h3 align="center">Chance led me to iOS development, <br> but the COVID-19 pandemic cemented my choice of a software engineering career, <br> which I stay current with through my writing on Medium</h3>
 
 - 🔭 My current focus is a natural-language processing iOS app as the capstone project for my Master's program, which concludes in June 2025.
+- 📝 I regularly publish articles on iOS development and its integration with AI tools on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX), focusing on the technical concepts and components I use in my capstone project. My writing covers various topics, from Swift and Objective-C to machine learning, edge computing, algorithms, AI, and NLP.
 - 📫 How to reach me **conglejobs@gmail.com**
-- 📝 I'm actively writing articles on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX) on iOS development and integrations with AI tools.
 <!-- 
 - 🔭 I’m currently working on iOS mobile app development.
 - 🌱 I’m currently learning **Generative AI**, **Cryptos**, **Stock Trading**, **Python**, **Pine Script**
