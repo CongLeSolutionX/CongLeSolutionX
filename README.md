@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cong Le</h1>
-<h3 align="center">A passionate iOS mobile developer from USA</h3>
+<h3 align="center">Chance led me to iOS development, <br> but the COVID-19 pandemic cemented my choice of a software engineering career, <br> which I stay current with through my writing on Medium</h3>
 
 - 🔭 I’m currently working on iOS mobile app development.
 - 🌱 I’m currently learning **Generative AI**, **Cryptos**, **Stock Trading**, **Python**, **Pine Script**
