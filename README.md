@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cong Le</h1>
+
+<p align="center">
+  <img src="assets/images/My-meme-original.png" alt="My original meme logo" width="150" height="100"/>
+</p>
+
 <h3 align="center">Chance led me to iOS development, <br> but the COVID-19 pandemic cemented my choice of a software engineering career, <br> which I stay current with through my writing on Medium</h3>
 
 - 🔭 My current focus is a natural-language processing iOS app as the capstone project for my Master's program, which concludes in June 2025.
