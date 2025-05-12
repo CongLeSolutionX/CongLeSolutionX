@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cong Le</h1>
+<h1 align="center">Hi 👋,<br/>I'm Cong Le</h1>
 
 <p align="center">
   <img src="assets/images/My-meme-original.png" alt="My original meme logo" width="150" height="100"/>
