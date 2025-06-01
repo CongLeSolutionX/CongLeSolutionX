@@ -8,7 +8,7 @@
 
 - 🔭 My current focus is a natural-language processing iOS app as the capstone project for my Master's program (and the initial work is finally in this [repo](https://github.com/CongLeSolutionX/On_device_real_time_AI_assistant)), which concludes in June 2025.
 - 📝 I sometimes will publish articles on iOS development and its integration with AI tools on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX), focusing on the technical concepts and components I use in my capstone project.
-- Majority of my technical writtings and latest updates will be on Github platform. My writing covers various topics, from Swift and Objective-C to machine learning, edge computing, algorithms, AI, and NLP.
+- Majority of my technical writtings and latest updates will be on GitHub platform. My writing covers various topics, from Swift and Objective-C to machine learning, edge computing, algorithms, AI, NLP, etc.
 - 📫 How to reach me **conglejobs@gmail.com**
 <!-- 
 - 🔭 I’m currently working on iOS mobile app development.
