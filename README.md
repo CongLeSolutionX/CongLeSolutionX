@@ -28,8 +28,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,vue,vite,nuxtjs,html,css,bootstrap,tailwind,nodejs,go,postgres,mysql,vscode,netlify,cloudflare)](https://skillicons.dev)
 
-**kkeisuke/kkeisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -53,8 +51,14 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@conglesolutionx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@conglesolutionx" height="30" width="40" /></a>
 </p>
 
-** ***********
-<h3 align="left">My recent activities and statistics on GitHub platform</h3>
+*************
+
+<div align="left"><a name="my-activities"></a>
+
+<h3 align="left">My recent activities and statistics</h3>
+
+> powered by [OSS Insight](https://ossinsight.io)
+
 <!-- My GitHub dashboard stats -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=31250006" target="_blank" style="display: block" align="center">
@@ -63,8 +67,18 @@ Here are some ideas to get you started:
     <img alt="Dashboard stats of @CongLeSolutionX" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=31250006&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
+  
+</div>
+  
 ---
+
+<div align="left"><a name="my-activities"></a>
+
+<details open>
+<summary>Click to show/hide more on my recent activities on GitHub platform</summary>
+
+> powered by [OSS Insight](https://ossinsight.io)
+> 
 <!-- My recent works in 28 days -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=31250006&activity_type=all" target="_blank" style="display: block" align="center">
@@ -75,6 +89,7 @@ Here are some ideas to get you started:
 </a>
 
 ---
+
 <!-- My contribution time distribution -->
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=31250006&period=all_times" target="_blank" style="display: block" align="center">
@@ -85,7 +100,11 @@ Here are some ideas to get you started:
 </a>
 
 
+</details>
+
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+</div>
 
 *************
 
