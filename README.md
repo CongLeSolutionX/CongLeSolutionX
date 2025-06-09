@@ -102,8 +102,6 @@ Here are some ideas to get you started:
 
 </details>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
 </div>
 
 *************
