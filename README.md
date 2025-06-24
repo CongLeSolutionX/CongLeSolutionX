@@ -16,6 +16,9 @@
 
 [The Book of Enoch](https://github.com/CongLeSolutionX/The-Book-of-Enoch)
 
+[Earth](https://github.com/CongLeSolutionX/Earth)
+
+
 <!-- 
 - 🔭 I’m currently working on iOS mobile app development.
 - 🌱 I’m currently learning **Generative AI**, **Cryptos**, **Stock Trading**, **Python**, **Pine Script**
