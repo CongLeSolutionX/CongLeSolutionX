@@ -14,17 +14,15 @@
 
 
 <div align="center">
-	<h1>
-		    <strong>ArchExplorer</strong>
-	</h1>
-</div>
-
-
-[Harmonic_Atomica](https://github.com/CongLeSolutionX/Harmonic_Atomica)
 
 [The Book of Enoch](https://github.com/CongLeSolutionX/The-Book-of-Enoch)
 
+[Harmonic Atomica](https://github.com/CongLeSolutionX/Harmonic_Atomica)
+
 [Earth](https://github.com/CongLeSolutionX/Earth)
+
+
+</div>
 
 
 <!-- 
