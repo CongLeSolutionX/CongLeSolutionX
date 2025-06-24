@@ -10,10 +10,11 @@
 - 📝 I publish articles on iOS development and its integration with AI tools ~sometimes~ occasionally on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX), focusing on the technical concepts and components I use in my capstone project.
 - <ins>The majority of my technical writings and latest updates</ins> will be on ***the GitHub platform***. My writing covers various topics, from Swift and Objective-C to machine learning, edge computing, **algorithms**, **maths**, IoT, **AI**, NLP, etc.
 - 📫 How to reach me **conglejobs@gmail.com**
-- 🔭 I’m currently seeking (<ins>if possible any</ins>) connections among projects below:
+- 🔭 I’m currently seeking (,<ins>if possible, any</ins>) connections and relationships among projects below:
 
 [Harmonic_Atomica](https://github.com/CongLeSolutionX/Harmonic_Atomica)
 
+[The Book of Enoch](https://github.com/CongLeSolutionX/The-Book-of-Enoch)
 
 <!-- 
 - 🔭 I’m currently working on iOS mobile app development.
