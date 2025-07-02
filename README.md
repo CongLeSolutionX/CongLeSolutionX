@@ -4,7 +4,7 @@
   <img src="assets/images/My-meme-original.png" alt="My original meme logo" width="150" height="100"/>
 </p>
 
-<h3 align="center">Chance led me to iOS development, <br> but the COVID-19 pandemic cemented my choice of a software engineering career, <br> which I stay current with through my writing on GitHub platform,<br/> and <s>sometimes</s> occasionally on Medium𓂃🖊📱</h3>
+<h3 align="center">Chance led me to iOS development, <br> <ins>but the COVID-19 pandemic cemented my choice of a software engineering career</ins><br/>(<ins>this is my real personal experience and timeframe, not carry any figurative meanings</ins>), <br> which I stay current with through my writing on GitHub platform,<br/> and <s>sometimes</s> occasionally on Medium𓂃🖊📱</h3>
 
 - 🔭 My current focus is a natural-language processing iOS app, <ins>which is used to be the capstone project for my Master's program</ins>, ~which concluded in June 2025~ and the initial work is finally in this [repo](https://github.com/CongLeSolutionX/On_device_real_time_AI_assistant),...*I'm setting up the <ins>CI/CD strategy</ins> for this project now*...👨🏼‍💻🏗🧠🤖
 - 📝 I publish articles on iOS development and its integration with AI tools ~sometimes~ occasionally on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX), focusing on the technical concepts and components I use in my capstone project.
