@@ -71,9 +71,14 @@ Here are some ideas to get you started:
 
 <div align="left"><a name="my-activities"></a>
 
+
+<h2 align="center"> <i>I dont have much friends in real life, so below is where and how I've been spending my time during the last 2 years with machines.</i></h2>
+
+
 <h3 align="left">My recent activities and statistics</h3>
 
 > powered by [OSS Insight](https://ossinsight.io)
+
 
 <!-- My GitHub dashboard stats -->
 
