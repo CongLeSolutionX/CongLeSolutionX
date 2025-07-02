@@ -11,7 +11,7 @@
 - 📝 I publish articles on iOS development and its integration with AI tools ~sometimes~ occasionally on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX), focusing on the technical concepts and components I use in my capstone project.
 - <ins>The majority of my technical writings and latest updates</ins> will be on ***the GitHub platform***. My writing covers various topics, from Swift and Objective-C to machine learning, edge computing, <ins>**algorithms**</ins>, <ins>**maths**</ins>, IoT, <ins>**AI**</ins>, NLP, etc.·········♾️ ᝰ.ᐟ
 - 📫 How to reach me 「 ✦ <a href="mailto:conglejobs@gmail.com">conglejobs@gmail.com</a> ✦ 」
-- 💬 Currently, the pursuit of understanding the (<ins>potentially</ins>) <b>mysterious connections and relationships</b> among the projects below is all-consuming, frequently keeping me working from dusk 🌄 till dawn 🌅.
+- 💬 Currently, the pursuit of understanding the (<ins>potentially</ins>) <b>mysterious connections and relationships</b> among the projects below as personal interests and self-studying is all-consuming, frequently keeping me working from dusk 🌄 till dawn 🌅.
 
 
 <div align="center">
