@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <div align="left"><a name="my-activities"></a>
 
 
-<h2 align="center"> <i>I dont have much friends in real life,<br/>so below is where and how I've been spending my time<br/> during the last 2 years with machines.</i></h2>
+<h2 align="center"> <q> I dont have much friends in real life,<br/>so below is where and how I've been spending my time<br/> during the last 2 years with machines.</q></h2>
 
 
 <h3 align="left">My recent activities and statistics</h3>
@@ -252,5 +252,5 @@ Here are some ideas to get you started:
 > 1. **MIT License:** Applies to all code implementations (Swift, Mermaid, and other programming languages).
 > 2. **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0):** Applies to all non-code content, including text, explanations, diagrams, and illustrations.
 
-
+----
 
