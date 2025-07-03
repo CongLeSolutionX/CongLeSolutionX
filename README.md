@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <h2 align="center"> <q> I dont have much friends in real life,<br/>so below is where and how I've been spending my time on<br/> during the last 2 years with machines.</q></h2>
 -->
 
-<div align="center", style="font-family: American Typewriter;">
+<div align="center">
   <q> I dont have much friends in real life,<br/>so below is where and how I've been spending my time on<br/> during the last 2 years with machines.</q>
 </div>
 
