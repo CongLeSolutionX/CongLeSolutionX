@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*************
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
