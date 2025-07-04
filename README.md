@@ -246,6 +246,7 @@ Here are some ideas to get you started:
 > <ins>📢 **Disclaimer** 🚨</ins>
 >
 > All the projects with my meme images (as my signature way to label repos based on their functionalities for future review) </br>
+> and all the projects starting under my GitHub account name</br>
 > are born from my fascination with blending digital art and artificial intelligence.</br>
 > It's where I document my academic explorations,</br>
 > share my findings with anyone interested,</br>
