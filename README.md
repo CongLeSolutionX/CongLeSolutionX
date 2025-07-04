@@ -245,7 +245,7 @@ Here are some ideas to get you started:
 > share my findings with anyone interested,</br>
 > and maintain a personal vault of my creative and technical journey.</br>
 > I'm not sure the link for this repo being shared in the back by others,</br>
-> since I havent plan for any analytics for this project yet.</br>
+> since I haven't planned for any analytics for this project yet.</br>
 > ...and I'm actively looking for a job...</br>
 
 > This document contains my personal notes on the topic,</br>
