@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,<br/>I'm Cong Le</h1>
-<p align="center"><q>Just a regular kid <br/>love mixing digital art and AI models<br/> to build things <br/>as hobby for my own academic research.</q></p>
+<p align="center"><q>Just a regular kid <br/>love mixing digital art and AI models<br/> to build things <br/>as a hobby and for my own academic research.</q></p>
 
 <p align="center">
   <img src="assets/images/My-meme-original.png" alt="My original meme logo" width="150" height="100"/>
