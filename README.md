@@ -268,3 +268,10 @@ Here are some ideas to get you started:
 </details>
 
 ----
+
+## Animation testing zone...
+
+![A blue ball bouncing up and down](./assets/svg/bouncing-ball.svg)
+
+
+------
