@@ -1,15 +1,31 @@
 <h1 align="center">Hi 👋,<br/>I'm Cong Le</h1>
+<p align="center"><q>Just a regular kid <br/>love mixing digital art and AI models<br/> to build things <br/>as a hobby and for my own academic research.</q></p>
 
 <p align="center">
   <img src="assets/images/My-meme-original.png" alt="My original meme logo" width="150" height="100"/>
 </p>
 
-<h3 align="center">Chance led me to iOS development, <br> but the COVID-19 pandemic cemented my choice of a software engineering career, <br> which I stay current with through my writing on GitHub platform,<br/> and <s>sometimes</s> occasionally on Medium𓂃🖊📱</h3>
+<h3 align="center">Chance led me to iOS development, <br> <ins>but the COVID-19 pandemic cemented my choice of a software engineering career</ins><br/>(<ins>this is my real personal experience and timeframe, not carry any figurative meanings</ins>), <br> which I stay current with through my writing on GitHub platform,<br/> and <s>sometimes</s> occasionally on Medium𓂃🖊📱</h3>
 
-- 🔭 My current focus is a natural-language processing iOS app, <ins>which is used to be the capstone project for my Master's program</ins>, ~which concluded in June 2025~ and the initial work is finally in this [repo](https://github.com/CongLeSolutionX/On_device_real_time_AI_assistant),...*I'm setting up the CI/CD strategy for this project now*...👨🏼‍💻🏗🧠🤖
-- 📝 I publish articles on iOS development and its integration with AI tools ~sometimes~ occasionally on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX), focusing on the technical concepts and components I use in my capstone project.
-- <ins>The majority of my technical writings and latest updates</ins> will be on ***the GitHub platform***. My writing covers various topics, from Swift and Objective-C to machine learning, edge computing, **algorithms**, **maths**, IoT, AI, NLP, etc.
-- 📫 How to reach me **conglejobs@gmail.com**
+- 🔭 My current focus is a natural-language processing iOS app, <ins>which is used to be the capstone project for my Master's program</ins>, ~which concluded in June 2025~ and the initial work is finally in this [repo](https://github.com/CongLeSolutionX/On_device_real_time_AI_assistant),...*I'm <ins>**slowly and unfrequently**</ins> setting up the <ins>CI/CD strategy</ins> for this project since <ins>my top priority is landing a tech job now</ins>*...👨🏼‍💻🏗🧠🤖
+- 📝 I publish articles on iOS development and its integration with AI tools ~sometimes~ occasionally on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX), <ins>where still hosting my older tech articles</ins>, ~~which, in turn, might remain deprecated features~~, focusing on the technical concepts and components I use in my capstone project.
+- <ins>The majority of my technical writings and latest updates</ins> will be on ***the GitHub platform***. My writing covers various topics, from Swift and Objective-C to machine learning, edge computing, <ins>**algorithms**</ins>, <ins>**maths**</ins>, IoT, <ins>**AI**</ins>, NLP, etc.·········♾️ ᝰ.ᐟ
+- 📫 How to reach me 「 ✦ <a href="mailto:conglejobs@gmail.com">conglejobs@gmail.com</a> ✦ 」
+- 💬 Currently, the pursuit of understanding the (<ins>potentially</ins>) <b>mysterious connections and relationships</b> among the projects below <ins>as personal interests and self-studying</ins> ~is all-consuming, frequently keeping me working from dusk 🌄 till dawn 🌅~ is temporary on pause since I need more time on hunting a job.<br/>Help me out if anyone knows any legitimate companies currently hiring! 🙏🙏🙏
+
+
+<div align="center">
+
+[The Book of Enoch](https://github.com/CongLeSolutionX/The-Book-of-Enoch)
+
+[Harmonic Atomica](https://github.com/CongLeSolutionX/Harmonic_Atomica)
+
+[Earth](https://github.com/CongLeSolutionX/Earth)
+
+
+</div>
+
+
 <!-- 
 - 🔭 I’m currently working on iOS mobile app development.
 - 🌱 I’m currently learning **Generative AI**, **Cryptos**, **Stock Trading**, **Python**, **Pine Script**
@@ -40,10 +56,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*************
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/cong_le" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cong_le" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/conglesolutionx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/conglesolutionx" height="30" width="40" /></a>
 <a href="https://fb.com/congleprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="congleprogrammer" height="30" width="40" /></a>
@@ -55,9 +70,19 @@ Here are some ideas to get you started:
 
 <div align="left"><a name="my-activities"></a>
 
+<!--
+<h2 align="center"> <q> I dont have much friends in real life,<br/>so below is where and how I've been spending my time on<br/> during the last 2 years with machines.</q></h2>
+-->
+
+<div align="center">
+  <q> I dont have much friends in real life,<br/>so below is where and how I've been spending my time on<br/> during the last 2 years with machines.</q>
+</div>
+
+
 <h3 align="left">My recent activities and statistics</h3>
 
 > powered by [OSS Insight](https://ossinsight.io)
+
 
 <!-- My GitHub dashboard stats -->
 
@@ -211,6 +236,35 @@ Here are some ideas to get you started:
 
 ** ***********
 
-## Animations in testing mode...
 
-![A blue ball bouncing up and down](./assets/svg/bouncing-ball.svg)
+<details open>
+<summary>Click to show/hide the full disclaimer.</summary>
+
+----
+
+
+> <ins>📢 **Disclaimer** 🚨</ins>
+>
+> All the projects with my meme images (as my signature way to label repos based on their functionalities for future review) </br>
+> and all the projects starting under my GitHub account name</br>
+> are born from my fascination with blending digital art and artificial intelligence.</br>
+> It's where I document my academic explorations,</br>
+> share my findings with anyone interested,</br>
+> and maintain a personal vault of my creative and technical journey.</br>
+> I'm not sure the link for this repo being shared in the back by others,</br>
+> since I haven't planned for any analytics for this project yet.</br>
+> Any user who shares, adapts, or builds upon this work is responsible for their own interpretations and applications.</br>
+
+> ...and I'm actively looking for a job...</br>
+
+> This document contains my personal notes on the topic,</br>
+> compiled from publicly available documentation and various cited sources.
+> 
+> The materials are intended for educational purposes (<ins>sometimes, entertainment purposes</ins>), personal study, and technical reference.
+> The content is dual-licensed:
+> 1. **MIT License:** Applies to all code implementations (Swift, Mermaid, and other programming languages).
+> 2. **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0):** Applies to all non-code content, including text, explanations, diagrams, and illustrations.
+
+</details>
+
+----
