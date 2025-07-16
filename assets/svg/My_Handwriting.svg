@@ -55,7 +55,7 @@ copyright: Copyright © 2025 Cong Le. All Rights Reserved.
   -->
   <text 
     id="handwriting-text" 
-    x="100" 
+    x="90" 
     y="60" 
     fill="yellow" 
     stroke="#333" 
