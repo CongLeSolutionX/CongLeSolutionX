@@ -1,0 +1,29 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- CSS animation logic is embedded directly within the SVG -->
+  <style>
+    @keyframes bounce {
+      /* Animation starts: circle is at its original position */
+      0% { 
+        transform: translateY(0); 
+        animation-timing-function: ease-out;
+      }
+      /* Animation midpoint: circle is at its highest point */
+      50% { 
+        transform: translateY(-50px);
+        animation-timing-function: ease-in;
+      }
+      /* Animation ends: circle returns to the start */
+      100% { 
+        transform: translateY(0); 
+      }
+    }
+
+    .animated-circle {
+      /* Apply the 'bounce' animation, make it last 2s, and loop forever */
+      animation: bounce 2s infinite;
+    }
+  </style>
+
+  <!-- The SVG shape that will be animated -->
+  <circle cx="100" cy="100" r="40" fill="#4A90E2" class="animated-circle" />
+</svg>
