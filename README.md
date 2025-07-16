@@ -273,5 +273,7 @@ Here are some ideas to get you started:
 
 ![A blue ball bouncing up and down](./assets/svg/bouncing-ball.svg)
 
+![pulsating heart](./assets/svg/pulsating-heart.svg)
+
 
 ------

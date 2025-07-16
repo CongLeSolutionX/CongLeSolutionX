@@ -1,0 +1,42 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* 
+      The .heart-beat class styles our shape and applies the animation.
+    */
+    .heart-beat {
+      /* Set the heart's color. Feel free to change this! */
+      fill: #e0245e; 
+
+      /* Apply the 'pulsate' animation defined below. */
+      /* Breakdown: name duration timing-function iteration-direction */
+      animation: pulsate 1.5s ease-in-out infinite alternate;
+
+      /* This is CRITICAL for the scaling to work correctly. */
+      /* It makes the heart scale from its visual center. */
+      transform-origin: center;
+    }
+
+    /* 
+      The @keyframes rule defines the 'story' of the animation.
+      The browser will smoothly transition between these states.
+    */
+    @keyframes pulsate {
+      from {
+        /* The starting state: normal size, slightly faded */
+        transform: scale(1);
+        opacity: 0.9;
+      }
+      to {
+        /* The ending state: slightly larger, fully opaque */
+        transform: scale(1.1);
+        opacity: 1;
+      }
+    }
+  </style>
+
+  <!-- The heart shape that will be animated -->
+  <path 
+    class="heart-beat"
+    d="M 50,90 C 10,60 10,30 30,20 C 40,15 50,25 50,25 C 50,25 60,15 70,20 C 90,30 90,60 50,90 Z"
+  />
+</svg>
