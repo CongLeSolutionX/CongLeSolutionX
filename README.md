@@ -275,5 +275,7 @@ Here are some ideas to get you started:
 
 ![pulsating heart](./assets/svg/pulsating-heart.svg)
 
+![pulsating star](./assets/svg/pulsating-star.svg)
+
 
 ------
