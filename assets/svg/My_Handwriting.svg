@@ -39,12 +39,12 @@ copyright: Copyright © 2025 Cong Le. All Rights Reserved.
       /* 
         Apply the animation:
         - 'draw': the name of our @keyframes rule
-        - '3s': duration of the animation (3 seconds)
+        - '8s': duration of the animation (8 seconds)
         - 'ease-out': timing function (starts fast, ends slow for a natural feel)
         - 'forwards': IMPORTANT! This makes the text stay visible after the animation ends.
                        Without it, the text would disappear again.
       */
-      animation: draw 3s ease-out forwards;
+      animation: draw 8s ease-out forwards;
     }
   </style>
 
