@@ -1,5 +1,6 @@
 # File: update_activity.py
 import os
+import re # Import the regular expression module
 import requests
 from datetime import datetime
 
@@ -8,6 +9,8 @@ USERNAME = "CongLeSolutionX"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 MAX_ITEMS = 5
 
+# The fetch_github_events, format_relative_time, and process_events functions remain the same
+# ... (You can copy them from the previous response or use the full script below) ...
 def fetch_github_events():
     """Fetches public events for the specified user from the GitHub API."""
     url = f"https://api.github.com/users/{USERNAME}/events/public"
@@ -49,56 +52,96 @@ def process_events(events):
         "commits": [], "pull_requests": [], "issues": [], "stars": []
     }
     if not events: return activity
-
     committed_repos = set()
-
     for event in events:
         repo_name = event['repo']['name']
         event_time = format_relative_time(event['created_at'])
-
         if event['type'] == 'PushEvent' and repo_name not in committed_repos and len(activity['commits']) < MAX_ITEMS:
-            # Group all commits in a single push to one line item
             num_commits = len(event['payload']['commits'])
             plural_s = "s" if num_commits > 1 else ""
             commit_url = f"https://github.com/{repo_name}/commits?author={USERNAME}"
-            activity['commits'].append(
-                f"Pushed [{num_commits} commit{plural_s}]({commit_url}) to **{repo_name}** - *{event_time}*"
-            )
-            committed_repos.add(repo_name) # Avoid listing the same repo push multiple times
-
+            activity['commits'].append(f"Pushed [{num_commits} commit{plural_s}]({commit_url}) to **{repo_name}** - *{event_time}*")
+            committed_repos.add(repo_name)
         elif event['type'] == 'PullRequestEvent' and event['payload']['action'] == 'opened' and len(activity['pull_requests']) < MAX_ITEMS:
             pr = event['payload']['pull_request']
             activity['pull_requests'].append(f"Opened PR [#{pr['number']}]({pr['html_url']}) in **{repo_name}** - *{event_time}*")
-
         elif event['type'] == 'IssuesEvent' and event['payload']['action'] == 'opened' and len(activity['issues']) < MAX_ITEMS:
             issue = event['payload']['issue']
             activity['issues'].append(f"Opened Issue [#{issue['number']}]({issue['html_url']}) in **{repo_name}** - *{event_time}*")
-
         elif event['type'] == 'WatchEvent' and event['payload']['action'] == 'started' and len(activity['stars']) < MAX_ITEMS:
             activity['stars'].append(f"Starred [{repo_name}](https://github.com/{repo_name}) - *{event_time}*")
-
     return activity
+# --- END of unchanged functions ---
 
-def generate_markdown(activity):
-    """Generates the full Markdown content from the processed activity."""
-    md = f"# ✨ My Recent GitHub Activity\n\n*Last updated: {datetime.now().strftime('%d %B %Y')}*\n\n"
+
+def generate_markdown_snippet(activity):
+    """Generates the activity list portion of the Markdown content."""
+    md = [f"*Last updated: {datetime.now().strftime('%d %B %Y')}*\n"] # Use a list to build parts
+    
     if activity['commits']:
-        md += "### 📝 Latest Pushes\n\n" + "\n".join([f"- {c}" for c in activity['commits']]) + "\n\n"
+        md.append("#### 📝 Latest Pushes")
+        md.extend([f"- {c}" for c in activity['commits']])
+        md.append("") # Add a blank line for spacing
+        
     if activity['pull_requests']:
-        md += "### 🔧 Recent Pull Requests\n\n" + "\n".join([f"- {pr}" for pr in activity['pull_requests']]) + "\n\n"
+        md.append("#### 🔧 Recent Pull Requests")
+        md.extend([f"- {pr}" for pr in activity['pull_requests']])
+        md.append("")
+        
     if activity['issues']:
-        md += "### 🎯 Newly Opened Issues\n\n" + "\n".join([f"- {i}" for i in activity['issues']]) + "\n\n"
+        md.append("#### 🎯 Newly Opened Issues")
+        md.extend([f"- {i}" for i in activity['issues']])
+        md.append("")
+        
     if activity['stars']:
-        md += "### ⭐ Recently Starred\n\n" + "\n".join([f"- {s}" for s in activity['stars']]) + "\n\n"
-    return md
+        md.append("#### ⭐ Recently Starred")
+        md.extend([f"- {s}" for s in activity['stars']])
+        
+    return "\n".join(md).strip()
+
+
+def main():
+    """Main function to run the script."""
+    if not os.getenv("GITHUB_TOKEN"):
+        print("❗ GITHUB_TOKEN environment variable not set. API requests are limited.")
+    
+    events = fetch_github_events()
+    if not events:
+        print("No events fetched. Exiting.")
+        return
+        
+    processed_activity = process_events(events)
+    markdown_snippet = generate_markdown_snippet(processed_activity)
+    
+    # --- The ✨ New Logic ✨ ---
+    readme_path = "README.md"
+    try:
+        with open(readme_path, "r", encoding="utf-8") as f:
+            readme_content = f.read()
+    except FileNotFoundError:
+        print(f"❌ '{readme_path}' not found. Cannot update.")
+        return
+
+    # Use regex to find and replace the content between markers
+    start_marker = "<!--START_ACTIVITY_LIST-->"
+    end_marker = "<!--END_ACTIVITY_LIST-->"
+    
+    # Safely construct the new content to be injected
+    new_content_block = f"{start_marker}\n{markdown_snippet}\n{end_marker}"
+    
+    # Regex pattern to find the block to replace
+    pattern = re.compile(f"{re.escape(start_marker)}.*?{re.escape(end_marker)}", re.DOTALL)
+    
+    # Replace the block
+    new_readme, replacements = pattern.subn(new_content_block, readme_content)
+
+    if replacements > 0:
+        with open(readme_path, "w", encoding="utf-8") as f:
+            f.write(new_readme)
+        print("📄 README.md has been successfully updated with new activity.")
+    else:
+        print(f"❗ Markers '{start_marker}' and '{end_marker}' not found in README.md. No changes made.")
+
 
 if __name__ == "__main__":
-    if not os.getenv("GITHUB_TOKEN"):
-        print("❗ GITHUB_TOKEN environment variable not set.")
-    events = fetch_github_events()
-    if events:
-        processed_activity = process_events(events)
-        markdown_content = generate_markdown(processed_activity)
-        with open("README.md", "w") as f:
-            f.write(markdown_content)
-        print("📄 README.md has been successfully updated.")
+    main()

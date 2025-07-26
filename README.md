@@ -74,21 +74,43 @@ Here are some ideas to get you started:
 
 </div>
 
-
-
-
-
 *************
 
 <div align="left"><a name="my-activities"></a>
 
-<!--
-<h2 align="center"> <q> I dont have much friends in real life,<br/>so below is where and how I've been spending my time on<br/> during the last 2 years with machines.</q></h2>
--->
 
 <div align="center">
   <q> I dont have much friends in real life,<br/>so below is where and how I've been spending my time on<br/> during the last 2 years with machines.</q>
 </div>
+
+----
+
+
+<!-- My Very Latest Activity -->
+
+<h3 align="left">My Very Latest Activity</h3>
+
+<details open>
+<summary>⚡ My Very Latest Activity (Updated Hourly)</summary>
+
+<!--START_ACTIVITY_LIST-->
+*Last updated: 26 July 2025*
+
+#### 📝 Latest Pushes
+- Pushed [1 commit](https://github.com/CongLeSolutionX/CSUF_MSE/commits?author=CongLeSolutionX) to **CongLeSolutionX/CSUF_MSE** - *18 hours ago*
+- Pushed [1 commit](https://github.com/CongLeSolutionX/AlgoVerse/commits?author=CongLeSolutionX) to **CongLeSolutionX/AlgoVerse** - *19 hours ago*
+- Pushed [1 commit](https://github.com/CongLeSolutionX/iOS-development-vault/commits?author=CongLeSolutionX) to **CongLeSolutionX/iOS-development-vault** - *23 hours ago*
+- Pushed [20 commits](https://github.com/CongLeSolutionX/feeds/commits?author=CongLeSolutionX) to **CongLeSolutionX/feeds** - *yesterday*
+- Pushed [20 commits](https://github.com/CongLeSolutionX/mytechnotalent_Reverse-Engineering/commits?author=CongLeSolutionX) to **CongLeSolutionX/mytechnotalent_Reverse-Engineering** - *yesterday*
+
+#### 🔧 Recent Pull Requests
+- Opened PR [#2](https://github.com/CongLeSolutionX/CSUF_MSE/pull/2) in **CongLeSolutionX/CSUF_MSE** - *yesterday*
+- Opened PR [#90](https://github.com/CongLeSolutionX/Harmonic_Atomica/pull/90) in **CongLeSolutionX/Harmonic_Atomica** - *5 days ago*
+<!--END_ACTIVITY_LIST-->
+
+</details>
+
+----
 
 
 <h3 align="left">My recent activities and statistics</h3>
