@@ -26,36 +26,6 @@
 </div>
 
 
-<!-- 
-- 🔭 I’m currently working on iOS mobile app development.
-- 🌱 I’m currently learning **Generative AI**, **Cryptos**, **Stock Trading**, **Python**, **Pine Script**
-- 👯 I’m looking to collaborate on [OpenAI API](https://platform.openai.com/docs/introduction), [ChatGPT](https://openai.com/blog/chatgpt), [GPT-4](https://openai.com/research/gpt-4), [ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), and [DALL-E-2](https://openai.com/product/dall-e-2), etc. (I'm reviewing my recent projects and updating these frameworks and APIs. Stay tuned!).
-- 👨‍💻 All of my projects are available at [CongLeSolutionX.tech](https://CongLeSolutionX.tech) (I'm working on uploading more recent projects to that page. Stay tuned!)
-- 📝 I regularly write articles on [Medium.com/@CongLeSolutionX](https://www.medium.com/@CongLeSolutionX) and [CongLeSolutionX.tech](https://CongLeSolutionX.tech)
-- 💬 Ask me about **Swift, Objective C, iOS mobile development, and AI tools to generate various media types** (I am reviewing my content categories. Stay tuned!)
-- 📫 How to reach me **conglejobs@gmail.com**
-- 📄 Know about my experiences [CongLeSolutionX.tech](https://CongLeSolutionX.tech) (Under the process of updating my content and experiences on the website)
--->
-
-
-<!-- TEMPLATE
-![Stats](https://github-readme-stats.vercel.app/api?username=kkeisuke&count_private=true&show_icons=true&hide=prs,issues,contribs&hide_border=true&theme=vue-dark)
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kkeisuke&layout=compact&hide_border=true&theme=vue-dark)
-
-[![My Skills](https://skillicons.dev/icons?i=ts,vue,vite,nuxtjs,html,css,bootstrap,tailwind,nodejs,go,postgres,mysql,vscode,netlify,cloudflare)](https://skillicons.dev)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -74,15 +44,22 @@ Here are some ideas to get you started:
 
 </div>
 
-*************
-
 <div align="left"><a name="my-activities"></a>
 
-<!-- 
+---
+
+
 <div align="center">
-  <q> I dont have much friends in real life,<br/>so below is where and how I've been spending my time on<br/> during the last 2 years with machines.</q>
+  <blockquote>
+  As a visual learner student, I created these personal study notes from the cited source(s) to aid my understanding.<br/>
+  While my firm intention is to provide full credit, the blended format of notes and diagrams may sometimes obscure the original source, for which I apologize.<br/>
+  I am committed to making corrections and welcome any feedback.<br/>
+  This is a non-commercial project for my humble educational purposes only since the start.<br/>
+  My goal is to share my perspective and contribute to the great work already being done.
+  </blockquote>
 </div>
--->
+
+
 
 ----
 
