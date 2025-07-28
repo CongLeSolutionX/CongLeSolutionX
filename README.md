@@ -3,10 +3,6 @@
 Please accept my apologies if my phrasing was unclear or caused offense.<br/>🙏🙏🙏
 </p>
 
-<p align="center">
-  <img src="assets/images/My-meme-original.png" alt="My original meme logo" width="150" height="100"/>
-</p>
-
 <h3 align="center">Chance led me to iOS development, <br> <ins>but the COVID-19 pandemic cemented my choice of a software engineering career</ins><br/>(<ins>this is my real personal experience and timeframe, not carry any figurative meanings</ins>), <br> which I stay current with through my writing on GitHub platform,<br/> and <s>sometimes</s> occasionally on Medium</h3>
 
 - 🔭 My current focus is a natural-language processing iOS app, <ins>which is used to be the capstone project for my humble Master's degree</ins>, ~which concluded in June 2025~ and the initial work is finally in this [repo](https://github.com/CongLeSolutionX/On_device_real_time_AI_assistant),...I'm <ins>**slowly and unfrequently**</ins> setting up the <ins>CI/CD strategy</ins> for this project...
