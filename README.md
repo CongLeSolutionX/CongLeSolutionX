@@ -59,7 +59,8 @@
   <br/>
   I want to extend my genuine apologies to the creators of the original material.<br/>
   Their work was the direct inspiration for this project, and I adapted it without first reaching out.<br/>
-  My intent comes from a place of deep respect, and I hope this is received in the spirit of homage.
+  My intent comes from a place of deep respect, and I hope this is received in the spirit of homage.<br/>
+    🙏🏼🙏🏼🙏🏼🙏🏼
   </blockquote>
 </div>
 
@@ -267,7 +268,7 @@
 > and maintain a personal vault of my creative and technical journey.</br>
 > I'm not sure the link for this repo being shared in the back by others,</br>
 > since I haven't planned for any analytics for this project yet.</br>
-> Any user who shares, adapts, or builds upon this work is responsible for their own interpretations and applications.</br>
+> Any user who shares, adapts, or builds upon this work is 🙏🏼 please 🙏🏼 responsible for their own interpretations and applications.</br>
 
 > ...and I'm actively looking for a job...</br>
 
