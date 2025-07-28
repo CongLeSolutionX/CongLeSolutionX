@@ -69,32 +69,6 @@ Please accept my apologies if my phrasing was unclear or caused offense.<br/>�
 ----
 
 
-<!-- My Very Latest Activity -->
-
-<h3 align="left">My Very Latest Activity</h3>
-
-<details open>
-<summary>⚡ My Very Latest Activity (Updated Hourly)</summary>
-
-<!--START_ACTIVITY_LIST-->
-*Last updated: 26 July 2025*
-
-#### 📝 Latest Pushes
-- Pushed [1 commit](https://github.com/CongLeSolutionX/CSUF_MSE/commits?author=CongLeSolutionX) to **CongLeSolutionX/CSUF_MSE** - *18 hours ago*
-- Pushed [1 commit](https://github.com/CongLeSolutionX/AlgoVerse/commits?author=CongLeSolutionX) to **CongLeSolutionX/AlgoVerse** - *19 hours ago*
-- Pushed [1 commit](https://github.com/CongLeSolutionX/iOS-development-vault/commits?author=CongLeSolutionX) to **CongLeSolutionX/iOS-development-vault** - *23 hours ago*
-- Pushed [20 commits](https://github.com/CongLeSolutionX/feeds/commits?author=CongLeSolutionX) to **CongLeSolutionX/feeds** - *yesterday*
-- Pushed [20 commits](https://github.com/CongLeSolutionX/mytechnotalent_Reverse-Engineering/commits?author=CongLeSolutionX) to **CongLeSolutionX/mytechnotalent_Reverse-Engineering** - *yesterday*
-
-#### 🔧 Recent Pull Requests
-- Opened PR [#2](https://github.com/CongLeSolutionX/CSUF_MSE/pull/2) in **CongLeSolutionX/CSUF_MSE** - *yesterday*
-- Opened PR [#90](https://github.com/CongLeSolutionX/Harmonic_Atomica/pull/90) in **CongLeSolutionX/Harmonic_Atomica** - *5 days ago*
-<!--END_ACTIVITY_LIST-->
-
-</details>
-
-----
-
 
 <h3 align="left">My recent activities and statistics</h3>
 
@@ -272,16 +246,10 @@ Please accept my apologies if my phrasing was unclear or caused offense.<br/>�
 > since I haven't planned for any analytics for this project yet.</br>
 > Any user who shares, adapts, or builds upon this work is 🙏🏼 please 🙏🏼 responsible for their own interpretations and applications.</br>
 
-> ...and I'm actively looking for a job...</br>
-
 > This document contains my personal notes on the topic,</br>
 > compiled from publicly available documentation and various cited sources.
+>
 > 
-> The materials are intended for educational purposes (<ins>sometimes, entertainment purposes</ins>), personal study, and technical reference.
-> The content is dual-licensed:
-> 1. **MIT License:** Applies to all code implementations (Swift, Mermaid, and other programming languages).
-> 2. **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0):** Applies to all non-code content, including text, explanations, diagrams, and illustrations.
-
 </details>
 
 
