@@ -78,10 +78,11 @@ Here are some ideas to get you started:
 
 <div align="left"><a name="my-activities"></a>
 
-
+<!-- 
 <div align="center">
   <q> I dont have much friends in real life,<br/>so below is where and how I've been spending my time on<br/> during the last 2 years with machines.</q>
 </div>
+-->
 
 ----
 
