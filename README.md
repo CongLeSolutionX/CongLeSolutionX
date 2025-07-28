@@ -43,10 +43,20 @@ Please accept my apologies if my phrasing was unclear or caused offense.<br/>�
   <br/>
   <br/>
   I want to extend my genuine apologies to the creators of the original material.<br/>
-  Their work was the direct inspiration for this project, and I adapted it without first reaching out.<br/>
+  Their work was the direct inspiration for some of my projects, and I adapted it without first reaching out.<br/>
   My intent comes from a place of deep respect, and I hope this is received in the spirit of homage.<br/>
     🙏🏼🙏🏼🙏🏼🙏🏼
   </blockquote>
+
+   <blockquote>
+     I believe the best way to learn is by studying the work of others.<br/>
+     This is reflected in my many forked repos, which have been instrumental to my growth as a developer.<br/>
+     My focus now is shifting from absorbing knowledge to contributing back. You can see my own contributions and active projects pinned on my profile.<br/>
+     My intention was always to learn, never to misrepresent the incredible work of others.<br/>
+     Moving forward, I'm being more intentional about my public contributions.<br/>
+     🙏🏼🙏🏼🙏🏼🙏🏼
+  </blockquote>
+
 </div>
 
 ------
