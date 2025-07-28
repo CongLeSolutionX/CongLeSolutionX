@@ -39,13 +39,6 @@ Please accept my apologies if my phrasing was unclear or caused offense.<br/>ðŸ™
 </p>
 
 
-
-<div align="center">
-  
-![My_Handwriting](./assets/svg/My_Handwriting.svg)
-
-</div>
-
 <div align="left"><a name="my-activities"></a>
 
 ---
@@ -107,13 +100,6 @@ Please accept my apologies if my phrasing was unclear or caused offense.<br/>ðŸ™
 ---
 
 <!-- My contribution time distribution -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=31250006&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=31250006&period=all_times&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Contribution Time Distribution of @CongLeSolutionX" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=31250006&period=all_times&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
 
 
 </details>
