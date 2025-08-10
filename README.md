@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<p align="center"><q>Just a regular kid <br/>love mixing digital art and AI models<br/> to build things <br/>as a hobby and for my little humble academic research.</q><br/>
+<p align="center"><q>I'm just a regular kid <br/>love mixing digital art and AI models<br/> to build things <br/>as a hobby and for my little humble academic research.</q><br/>
 Please accept my apologies if my phrasing was unclear or caused offense.<br/>🙏🙏🙏
 </p>
 
